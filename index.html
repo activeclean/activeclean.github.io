@@ -2,7 +2,7 @@
    <head>
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="utf-8" http-equiv="encoding">
-    <title>Data Cleaning for Machine Learning</title>
+    <title>Data Cleaning For Data Science</title>
     <link rel="stylesheet" type="text/css" href="./include/style.css" />
     <script src="./include/jquery.js"></script>
     <script src="./include/handlebars.js"></script>
@@ -13,6 +13,9 @@
 <body>
 
 
+
+<div class="main">
+
   
 <div class="post">
   <p class="header" style="font-size: 30pt">
@@ -22,14 +25,6 @@ Cleaning for Data Science
 <p class="header">
 <small>Modern data science applications rely heavily on machine learning models.   We seek to understand and optimize data cleaning in this new setting.</small>
 </p>
-
-<!--
-
-
-md5-0d34f0abc3f735fc0baf66d77b7c11b1
-
-
--->
 
 <h1>ActiveClean <a name="activeclean"></a></h1>
 
@@ -73,18 +68,20 @@ when data is cleaned, and provides a set of optimizations to select the best dat
 In this way, you only need to clean a small subset of the data in order to produce a model similar
 to if the full dataset were cleaned.</p>
 
-<h2>Install It</h2>
+<h1>Code</h1>
 
-<p>ActiveClean is a lightweight python framework can be installed using <b>pip</b>:</p>
+<p>The ActiveClean codebase is written in Python and includes the core ActiveClean algorithm, a data cleaning
+benchmark, and (in the future), an dirty data detector:</p>
 
-<pre><code>  pip install activeclean
+<p>The <a href="https://github.com/sjyk/datacleaning-benchmark">Data Cleaning Benchmark</a> automatically injects data errors into your datasets to test the robustness
+of your machine learning models to data errors.  It can be installed using <strong>pip</strong>:</p>
+
+<pre><code>      pip install cleaningbenchmark
 </code></pre>
 
-<p><a href="https://github.com/">Check out the github page</a> for code and usage instructions</p>
+<p>The ActiveClean algorithm will be released at the end of the summer</p>
 
-<h1>Data Cleaning Benchmark <a name="benchmark"></a></h1>
-
-<p>TBA</p>
+<p>The ActiveClean detection tool will be released in the fall.</p>
 
 <h1>Publications</h1>
 
@@ -145,18 +142,24 @@ to if the full dataset were cleaned.</p>
 
 <h1>Collaborators</h1>
 
-<p>Collaboration between Database Group at Columbia University and the <a href="https://amplab.cs.berkeley.edu">AMPLab</a> at University of California, Berkeley.</p>
+<p>ActiveClean is a collaboration between the <a href="http://eugenewu.net/lab.html">WuLab</a> at Columbia University and the <a href="https://amplab.cs.berkeley.edu">AMPLab</a> at University of California, Berkeley.</p>
 
-<p>
-<a href="http://eugenewu.net"><img src="./images/cudbg.png" height=46.3 id=""/></a>
-<a href="http://amplab.cs.berkeley.edu"><img src="https://amplab.cs.berkeley.edu/wp-content/themes/amp/assets/images/amplab_logo.png" width=200></img></a>
-</p>
+<p><a href="http://eugenewu.net"><img src="./images/cudbg.png" height=46.3 id=""/></a>
+<a href="http://amplab.cs.berkeley.edu"><img src="https://amplab.cs.berkeley.edu/wp-content/themes/amp/assets/images/amplab_logo.png" width=200></img></a></p>
 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3762902-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</div>
 
 
 </div>
-
-<div class="footer"><div id="signature"></div>eugene wu</div>
-
 
 </body>
