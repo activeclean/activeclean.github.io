@@ -135,9 +135,13 @@ The ActiveClean detection tool will be released in the fall.
 
 
 
+# Contact
+
+Please contact [Sanjay Krishnan](https://www.ocf.berkeley.edu/~sanjayk/) or [Eugene Wu](https://www.eugenewu.net) with any questions.  We'd love to learn about your data cleaning pipeline and technical issues related to data cleaning for machine learning!
+
 # Collaborators
 
-ActiveClean is a collaboration between the [WuLab](http://eugenewu.net/lab.html) at Columbia University and the [AMPLab](https://amplab.cs.berkeley.edu) at University of California, Berkeley.
+ActiveClean is a collaboration between the [WuLab](http://eugenewu.net/lab.html) at Columbia University, the [AMPLab](https://amplab.cs.berkeley.edu) at University of California, Berkeley, and [Jiannan Wang](https://www.sfu.ca/computing/people/faculty/jiannanwang.html) at Simon Fraser University.
 
 <a href="http://eugenewu.net"><img src="./images/cudbg.png" height=46.3 id=""/></a>
 <a href="http://amplab.cs.berkeley.edu"><img src="https://amplab.cs.berkeley.edu/wp-content/themes/amp/assets/images/amplab_logo.png" width=200></img></a>
