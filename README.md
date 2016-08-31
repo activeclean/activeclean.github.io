@@ -1,4 +1,6 @@
+Setup
 
+        pip install jinja2 markdown2
 
 To edit the website:
 
