@@ -136,6 +136,7 @@ The ActiveClean detection tool will be released in the fall.
 # News
 
 * [A Data-Cleaning Tool for Building Better Prediction Models](http://datascience.columbia.edu/data-cleaning-tool-building-better-prediction-models)
+* [Machine learning tool cleans dirty data](https://gcn.com/articles/2016/10/19/activeclean-big-data.aspx)
 
 # Contact
 
