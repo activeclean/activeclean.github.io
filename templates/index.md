@@ -80,7 +80,7 @@ The ActiveClean detection tool will be released in the fall.
   <div class="screenshot"><img src="./images/previews/preview_activeclean-vldb16.png" width=200/></div>
   <div class="text">
     <div class="title">
-      <a href="./files/papers/activeclean-vldb16.pdf">
+      <a href="./files/activeclean-vldb16.pdf">
         ActiveClean: Interactive Data Cleaning For Statistical Modeling
       </a>
     </div>
@@ -96,7 +96,7 @@ The ActiveClean detection tool will be released in the fall.
   <div class="screenshot"><img src="./images/previews/preview_activeclean-sigmod16demo.png" width=200/></div>
   <div class="text">
     <div class="title">
-      <a href="./files/papers/activeclean-sigmod16demo.pdf">
+      <a href="./files/activeclean-sigmod16demo.pdf">
         ActiveClean: An Interactive Data Cleaning 
         Framework For Modern Machine Learning (Demo)
       </a>
@@ -117,6 +117,9 @@ The ActiveClean detection tool will be released in the fall.
     <div class="title">
       <a href="./files/papers/cleaning-hilda16.pdf">
         Towards Reliable Interactive Data Cleaning: A User Survey and Recommendations
+      </a>
+      <a href="./files/papers/hilda-2016.pdf">
+        (Talk Slides)
       </a>
     </div>
     <div class="authors">Sanjay Krishnan, Daniel Haas, Michael J. Franklin, Eugene Wu</div>
