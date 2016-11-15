@@ -121,8 +121,9 @@ The ActiveClean detection tool will be released in the fall.
     </div>
     <div class="authors">Sanjay Krishnan, Daniel Haas, Michael J. Franklin, Eugene Wu</div>
     <div class="links">
-      <span class="conf">HILDA 2016
-        <a href="./files/papers/hilda-2016.pdf"> (Talk Slides) </a>
+      <span class="conf">
+        <span>HILDA 2016</span>
+        <a href="./files/hilda-2016.pdf"> (Talk Slides) </a>
       </span>
     </div>
   </div>
