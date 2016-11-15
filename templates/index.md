@@ -115,7 +115,7 @@ The ActiveClean detection tool will be released in the fall.
   <div class="screenshot"><img src="./images/previews/preview_cleaning-hilda16.png" width=200/></div>
   <div class="text">
     <div class="title">
-      <a href="./files/papers/cleaning-hilda16.pdf">
+      <a href="./files/cleaning-hilda16.pdf">
         Towards Reliable Interactive Data Cleaning: A User Survey and Recommendations
       </a>
       <a href="./files/papers/hilda-2016.pdf">
