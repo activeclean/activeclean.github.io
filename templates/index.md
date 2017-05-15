@@ -67,9 +67,11 @@ of your machine learning models to data errors.  It can be installed using **pip
           pip install cleaningbenchmark
 
 
-The ActiveClean algorithm will be released at the end of the summer
+To reproduce our results and run the code, simply [download the files in the following link](https://www.dropbox.com/sh/r2vv252m5lnqpmm/AAAMj0WRaZX9EKH_8dLOHQpIa?dl=0) and run the python file using:
 
-The ActiveClean detection tool will be released in the fall.
+          python activeclean_sklearn.py 
+
+The script is quite simple, so you can read it to see everything in action.
 
 
 # Publications
