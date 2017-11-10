@@ -151,12 +151,6 @@ Please contact [Sanjay Krishnan](https://www.ocf.berkeley.edu/~sanjayk/) or [Eug
 
 ActiveClean is a collaboration between the [WuLab](http://eugenewu.net/lab.html) at Columbia University, the [AMPLab](https://amplab.cs.berkeley.edu) at University of California, Berkeley, and [Jiannan Wang](https://www.sfu.ca/computing/people/faculty/jiannanwang.html) at Simon Fraser University.
 
-<a href="http://eugenewu.net"><img src="./images/cudbg.png" height=46.3 id=""/></a>
-<a href="http://amplab.cs.berkeley.edu"><img src="https://amplab.cs.berkeley.edu/wp-content/themes/amp/assets/images/amplab_logo.png" width=200></img></a>
-
-
-
-
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
